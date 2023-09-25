@@ -327,7 +327,8 @@ footer {
     align-items: center;
   }
   .navig-two::before {
-    bottom: 23% !important;
+      display: none;
+/*     bottom: 23% !important; */
   }
   #abt {
   position: relative;
